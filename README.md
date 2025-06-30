@@ -4,7 +4,8 @@
 <H1>What it does</H1>
 <P1>Its funtion is to anyaise charts and send alerts to tell the trader what is happing in every stock.
 Also once Version 1 is finshed, It will be able to buy and sell stocks off custom and preset alerts. 
-This will take longer as I need to test it on paper trading to make sure it is not buggy.</P1>
+This will take longer as I need to test it on paper trading to make sure it is not buggy.
+Version 1 should Be finshed by July 12, if finished earler/later this will be upadted.</P1>
 
 ***
 <H1>Insturctions</H1>
