@@ -1,5 +1,5 @@
 # Alert-buy-sell
-<P1>It helps traders buy and sell stuff in an instant. Self developed.</P1> 
+<P1>It helps traders know what is happening in every stock with custom alerts that inform you in an instant. Self developed.</P1> 
 ***
 <H1>What it does</H1>
 <P1>Its funtion is to anyaise charts and send alerts to tell the trader what is happing in every stock.
