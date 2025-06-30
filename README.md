@@ -14,5 +14,4 @@ Version 1 should Be finshed by July 12, if finished earler/later this will be up
 
 
 
-** Hi
-
+<i> If find any bugs or issues tell me an I will fix them. </i>
