@@ -14,4 +14,4 @@ Version 1 should Be finshed by July 12, if finished earler/later this will be up
 
 
 
-<i> If you find any bugs or issues tell me an I will fix them. </i>
+<i> If you find any bugs or issues, tell me an I will fix them. If i find any I will inform traders about the issue on this readme. </i>
