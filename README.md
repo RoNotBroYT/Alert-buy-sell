@@ -10,8 +10,7 @@ Version 1 should Be finshed by July 12, if finished earler/later this will be up
 ***
 <H1>Insturctions</H1>
 <P1>1. Copy the code on ... into Pine Editor under the main charts on Tradingview.</P1>
-
-
+***
 
 
 <i> If you find any bugs or issues, tell me an I will fix them. If i find any I will inform traders about the issue on this readme. </i>
