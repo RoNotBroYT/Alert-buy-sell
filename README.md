@@ -14,3 +14,6 @@ Version 1 should Be finshed by July 12, if finished earler/later this will be up
 
 
 <i> If you find any bugs or issues, tell me an I will fix them. If i find any I will inform traders about the issue on this readme. </i>
+
+<h2>Please Note</h2>
+<i>Please note that you can lose money on any trade and and by using our softwere, this is at your own risk. For the buy-sell sofware you are wecome to report gliches but your money is at risk. Please vist [Gambleaware](https://www.gambleaware.org/). </i>
